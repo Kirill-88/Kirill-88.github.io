@@ -108,6 +108,11 @@ a:hover {
   }
 }
 
+.cats{
+  max-width:35%;
+         height:auto;
+}
+
 @media screen and (min-width: 1440px) {
   body {
     padding: 3.472vw;
@@ -133,4 +138,9 @@ a:hover {
     line-height: 7.813vw;
     font-size: 5.667vw;
   }
+}
+
+.cats{
+  max-width:35%;
+         height:auto;
 }
